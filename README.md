@@ -189,8 +189,7 @@ mars-rover-pathfinder-plus/
 │── pro.py
 │── visualizer_sprites.py
 │── README.md
-│── requirements.txt
-└── LICENSE
+
 ```
 
 ---
